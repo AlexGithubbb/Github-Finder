@@ -69,7 +69,7 @@ class UI{
     // timeout after 1s the alert
     setTimeout(() => {
       ui.clearAlert();
-    }, 1000);
+    }, 3000);
   }
   // Clear alert
   clearAlert(){
